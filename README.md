@@ -17,11 +17,8 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 **About Dataset**
 
 Diamention: (181691, 135)
-
 Geography: Worldwide
-
 Time period: 1970-2017, except 1993
-
 Unit of analysis: Attack
 
 **Data Variables Used:**
@@ -57,20 +54,14 @@ Access this link to know detail of columns: https://start.umd.edu/gtd/downloads/
 **☆ HIGHLIGHTS:**
 
  * Overview of the whole world
-
  * Know terrorist trends and regional differences
-
  * Be able to answer the big question posed in the end
 
 
 **☆ CHALLENGE:**
 
  * Understand the meaning of the columns.
-
  * Find the right chart to show the change of trends across each region.
-
  * Thinking about big question for analysis
-
  * Find an approach to analyze and answer the big question.
-
  * Some difficulties in coding, drawing maps.
