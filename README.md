@@ -24,27 +24,77 @@ Time period: 1970-2017, except 1993
 
 Unit of analysis: Attack
 
-Variables: >100 variables on location, tactics, perpetrators, targets, and outcomes.
+** Data Variables Used**
+
+ * *iyear* - Year of incident
+
+ * *extended* - Duration of incident (less or more than 24 hour)
+ * 
+ * *Summary* - A brief narrative summary of the incident, noting the “when, where, who, what, how, and why.”
+ * 
+ * *alternative_txt* - This variable identifies the most likely categorization of the incident other than terrorism.
+ * 
+ * *country* - This field identifies the country or location where the incident occurred.
+ * 
+ * *region* - This field identifies the region in which the incident occurred and divided into 12 categories.
+ * 
+ * *city* - This field contains the name of the city, village, or town in which the incident occurred.
+ * 
+ * *attacktype1_txt* - This field captures the general method of attack and often reflects the broad class of tactics used. 
+
+ * *success* - This field identifies If the incident was successful or not.
+ * 
+ * *suicide* - This variable is coded “Yes” in those cases where there is evidence that the perpetrator did not intend to escape from the attack alive.
+ * 
+ * *weaptype1_txt* - This field records the general type of weapon used in the incident.
+ * 
+ * *weapsubtype1_txt* - The corresponding weapon sub-types for each primary weapon type. 
+ * 
+ * *targtype1_txt* - The target/victim type field captures the general type of target/victim.
+ * 
+ * *targsubtype1_txt* - The target subtype variable captures the more specific target category.
+ * 
+ * *natlty1* - This is the nationality of the target that was attacked.
+ * 
+ * *gname* - Terrorist gang name
+ * 
+ * *nkill* - Total Number of Fatalities
+ * 
+ * *nkillter* - Number of Perpetrator Fatalities
+ * 
+ * *nwound* - Total Number of Injured
+ * 
+ * *propextent_txt* - Property Damage Type (Minor, Major, Catastrophic, Unknown)
+ * 
+ * *Ishostkid* - This field records whether or not the victims were taken hostage
+ * 
+ * *ransom* - This field records whether or not the attacker demanded ransom money or not
+ * 
+ * *ransomamt* – ransom money demanded
+ * 
+ * *ransompaid* – ransom money given 
+ * 
+ * *hostkidoutcome_txt* – This field captures the eventual fate of hostages and kidnap victims.
 
 Access this link to know detail of columns: https://start.umd.edu/gtd/downloads/Codebook.pdf
 
 **☆ HIGHLIGHTS:**
 
-Overview of the whole world
+ * Overview of the whole world
 
-Know terrorist trends and regional differences
+ * Know terrorist trends and regional differences
 
-Be able to answer the big question posed in the end
+ * Be able to answer the big question posed in the end
 
 
 **☆ CHALLENGE:**
 
-Understand the meaning of the columns.
+ * Understand the meaning of the columns.
 
-Find the right chart to show the change of trends across each region.
+ * Find the right chart to show the change of trends across each region.
 
-Thinking about big question for analysis
+ * Thinking about big question for analysis
 
-Find an approach to analyze and answer the big question.
+ * Find an approach to analyze and answer the big question.
 
-Some difficulties in coding, drawing maps.
+ * Some difficulties in coding, drawing maps.
