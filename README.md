@@ -16,7 +16,7 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 
 **About Dataset**
 
-Size: (181691, 135)
+Diamention: (181691, 135)
 
 Geography: Worldwide
 
@@ -24,10 +24,9 @@ Time period: 1970-2017, except 1993
 
 Unit of analysis: Attack
 
-** Data Variables Used**
+**Data Variables Used:**
 
  * *iyear* - Year of incident
-
  * *extended* - Duration of incident (less or more than 24 hour)
  * *Summary* - A brief narrative summary of the incident, noting the “when, where, who, what, how, and why.
  * *alternative_txt* - This variable identifies the most likely categorization of the incident other than terrorism.
