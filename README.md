@@ -3,15 +3,17 @@
 Created by Sanket Chouriya
 
 
-*Introduction*
+**Introduction**
+
+![alt text]([http://url/to/img.png](https://ideologia.pl/wp-content/uploads/2017/08/terroryzm.jpg))
 
 The Global Terrorism Database (GTD) is an open-source database including information on terrorist attacks around the world from 1970 through 2017. The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 180,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
 
-*Definition of terrorism*
+**Definition of terrorism**
 
 "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation."
 
-*About Dataset*
+**About Dataset**
 
 Size: (181691, 135)
 
@@ -25,13 +27,13 @@ Variables: >100 variables on location, tactics, perpetrators, targets, and outco
 
 Access this link to know detail of columns: https://start.umd.edu/gtd/downloads/Codebook.pdf
 
-*☆ HIGHLIGHTS:*
+**☆ HIGHLIGHTS:**
 
 Overview of the whole world
 Know terrorist trends and regional differences
 Be able to answer the big question posed in the end
 
-*☆ CHALLENGE:*
+**☆ CHALLENGE:**
 
 Understand the meaning of the columns.
 Find the right chart to show the change of trends across each region.
