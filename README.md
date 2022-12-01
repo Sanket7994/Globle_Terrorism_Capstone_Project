@@ -16,10 +16,10 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 
 **About Dataset**
 
-Diamention: (181691, 135)
-Geography: Worldwide
-Time period: 1970-2017, except 1993
-Unit of analysis: Attack
+* Diamention: 181691 x 135
+* Geography: Worldwide
+* Time period: 1970-2017, except 1993
+* Unit of analysis: Attack
 
 **Data Variables Used:**
 
