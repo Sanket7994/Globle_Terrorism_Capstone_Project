@@ -51,6 +51,8 @@ Unit of analysis: Attack
 
 Access this link to know detail of columns: https://start.umd.edu/gtd/downloads/Codebook.pdf
 
+AlmaBetter Project Description for addition information: https://grow.almabetter.com/data-science/projects/Global-Terrorism-Dataset
+
 **☆ HIGHLIGHTS:**
 
  * Overview of the whole world
