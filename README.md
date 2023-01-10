@@ -1,6 +1,7 @@
 ![terroryzm](https://user-images.githubusercontent.com/109847409/204507200-c7ff9bc6-99cb-4d1f-8227-5ca468993e7c.jpg)
 
 # Data Science Capstone Project: Globle Terrorism Data (GTD)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Created by Sanket Chouriya
 
@@ -53,6 +54,7 @@ Access this link to know detail of columns: https://start.umd.edu/gtd/downloads/
 
 AlmaBetter Project Description for addition information: https://grow.almabetter.com/data-science/projects/Global-Terrorism-Dataset
 
+
 **☆ HIGHLIGHTS:**
 
  * Overview of the whole world
@@ -67,3 +69,18 @@ AlmaBetter Project Description for addition information: https://grow.almabetter
  * Thinking about big question for analysis
  * Find an approach to analyze and answer the big question.
  * Some difficulties in coding, drawing maps.
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2 id="credits"> :scroll: Credits</h2>
+
+Sanket Chouriya| Data Science enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-chouriya-038705111/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket7994)
+[![Kaggle Badge](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanket7994/)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
